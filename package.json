@@ -1,0 +1,17 @@
+{
+  "name": "json-colorer",
+  "version": "0.1.0",
+  "description": "Get your JSON colored even if your theme doesn't do it",
+  "repository": "https://github.com/akofman/json-colorer",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "author": {
+   "name": "Alexis Kofman"
+  },
+  "keywords": [
+   "JSON",
+   "JSON colors"
+  ]
+}
