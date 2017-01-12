@@ -1,6 +1,6 @@
 {
   "name": "json-colorer",
-  "version": "0.4.0",
+  "version": "1.0.0",
   "description": "Color your JSON files",
   "repository": "https://github.com/akofman/json-colorer",
   "license": "MIT",
