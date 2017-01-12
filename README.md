@@ -2,9 +2,9 @@
 
 [Atom package](https://atom.io/packages/json-colorer)
 
-> Color your JSON files if your theme doesn't do it.
+> Color your JSON files.
 
-![](https://cloud.githubusercontent.com/assets/579922/7599595/bef258ea-f903-11e4-87c9-edf0cf771727.png)
+![](https://cloud.githubusercontent.com/assets/579922/21888650/7a10f2a6-d8c5-11e6-92d5-523415e46905.png)
 
 ## Install
 
